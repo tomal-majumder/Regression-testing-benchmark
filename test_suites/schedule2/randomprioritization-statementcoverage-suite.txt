@@ -1,0 +1,5 @@
+0 0 0 < input/nt.21
+1 0 3  < input/lu68
+3 4 2 < input/ct.24
+2 5 2 < input/dat421
+0 1 3 < input/bdt.80

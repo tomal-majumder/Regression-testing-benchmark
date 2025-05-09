@@ -1,0 +1,43 @@
+Benchmark,Coverage Strategy,Prioritization Strategy,Exposed Faults Count,Expose Faults,Total Faulty Versions,Percentage Exposed Faults
+tcas,StatementCoverage,RandomPrioritization,11,"['v22', 'v23', 'v28', 'v29', 'v30', 'v33', 'v35', 'v36', 'v37', 'v38', 'v40']",41,26.82926829268293
+tcas,StatementCoverage,TotalPrioritization,8,"['v1', 'v16', 'v23', 'v28', 'v30', 'v35', 'v36', 'v40']",41,19.51219512195122
+tcas,StatementCoverage,AdditionalPrioritization,9,"['v1', 'v7', 'v17', 'v23', 'v28', 'v30', 'v35', 'v36', 'v40']",41,21.951219512195124
+tcas,BranchCoverage,RandomPrioritization,16,"['v1', 'v3', 'v12', 'v16', 'v20', 'v21', 'v26', 'v28', 'v30', 'v33', 'v34', 'v35', 'v36', 'v37', 'v38', 'v40']",41,39.02439024390244
+tcas,BranchCoverage,TotalPrioritization,13,"['v2', 'v14', 'v18', 'v22', 'v23', 'v28', 'v29', 'v30', 'v33', 'v35', 'v36', 'v37', 'v40']",41,31.70731707317073
+tcas,BranchCoverage,AdditionalPrioritization,13,"['v1', 'v7', 'v17', 'v22', 'v23', 'v28', 'v29', 'v30', 'v33', 'v35', 'v36', 'v37', 'v40']",41,31.70731707317073
+totinfo,StatementCoverage,RandomPrioritization,11,"['v1', 'v7', 'v8', 'v11', 'v13', 'v15', 'v16', 'v18', 'v19', 'v20', 'v21']",23,47.82608695652174
+totinfo,StatementCoverage,TotalPrioritization,12,"['v1', 'v5', 'v7', 'v8', 'v9', 'v10', 'v11', 'v12', 'v13', 'v15', 'v16', 'v20']",23,52.17391304347826
+totinfo,StatementCoverage,AdditionalPrioritization,12,"['v1', 'v5', 'v7', 'v8', 'v9', 'v11', 'v12', 'v13', 'v15', 'v16', 'v20', 'v21']",23,52.17391304347826
+totinfo,BranchCoverage,RandomPrioritization,12,"['v1', 'v7', 'v8', 'v9', 'v11', 'v13', 'v15', 'v16', 'v18', 'v20', 'v21', 'v23']",23,52.17391304347826
+totinfo,BranchCoverage,TotalPrioritization,13,"['v1', 'v5', 'v7', 'v8', 'v9', 'v10', 'v11', 'v12', 'v13', 'v15', 'v16', 'v18', 'v20']",23,56.52173913043478
+totinfo,BranchCoverage,AdditionalPrioritization,13,"['v1', 'v5', 'v7', 'v8', 'v9', 'v11', 'v12', 'v13', 'v15', 'v16', 'v20', 'v21', 'v23']",23,56.52173913043478
+schedule,StatementCoverage,RandomPrioritization,0,[],9,0.0
+schedule,StatementCoverage,TotalPrioritization,2,"['v2', 'v9']",9,22.22222222222222
+schedule,StatementCoverage,AdditionalPrioritization,4,"['v1', 'v2', 'v6', 'v9']",9,44.44444444444444
+schedule,BranchCoverage,RandomPrioritization,8,"['v1', 'v2', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9']",9,88.88888888888889
+schedule,BranchCoverage,TotalPrioritization,3,"['v2', 'v5', 'v9']",9,33.33333333333333
+schedule,BranchCoverage,AdditionalPrioritization,5,"['v1', 'v2', 'v5', 'v6', 'v9']",9,55.55555555555556
+schedule2,StatementCoverage,RandomPrioritization,3,"['v2', 'v7', 'v8']",9,33.33333333333333
+schedule2,StatementCoverage,TotalPrioritization,3,"['v1', 'v8', 'v9']",9,33.33333333333333
+schedule2,StatementCoverage,AdditionalPrioritization,3,"['v1', 'v8', 'v9']",9,33.33333333333333
+schedule2,BranchCoverage,RandomPrioritization,4,"['v2', 'v7', 'v8', 'v9']",9,44.44444444444444
+schedule2,BranchCoverage,TotalPrioritization,5,"['v2', 'v3', 'v7', 'v8', 'v9']",9,55.55555555555556
+schedule2,BranchCoverage,AdditionalPrioritization,2,"['v8', 'v9']",9,22.22222222222222
+printtokens,StatementCoverage,RandomPrioritization,7,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']",7,100.0
+printtokens,StatementCoverage,TotalPrioritization,7,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']",7,100.0
+printtokens,StatementCoverage,AdditionalPrioritization,7,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']",7,100.0
+printtokens,BranchCoverage,RandomPrioritization,7,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']",7,100.0
+printtokens,BranchCoverage,TotalPrioritization,7,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']",7,100.0
+printtokens,BranchCoverage,AdditionalPrioritization,7,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7']",7,100.0
+printtokens2,StatementCoverage,RandomPrioritization,9,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9']",9,100.0
+printtokens2,StatementCoverage,TotalPrioritization,9,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9']",9,100.0
+printtokens2,StatementCoverage,AdditionalPrioritization,9,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9']",9,100.0
+printtokens2,BranchCoverage,RandomPrioritization,9,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9']",9,100.0
+printtokens2,BranchCoverage,TotalPrioritization,9,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9']",9,100.0
+printtokens2,BranchCoverage,AdditionalPrioritization,9,"['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'v8', 'v9']",9,100.0
+replace,StatementCoverage,RandomPrioritization,13,"['v3', 'v4', 'v5', 'v7', 'v8', 'v9', 'v11', 'v13', 'v16', 'v24', 'v27', 'v28', 'v30']",31,41.935483870967744
+replace,StatementCoverage,TotalPrioritization,10,"['v1', 'v2', 'v5', 'v8', 'v12', 'v17', 'v20', 'v23', 'v26', 'v27']",31,32.25806451612903
+replace,StatementCoverage,AdditionalPrioritization,4,"['v5', 'v8', 'v12', 'v27']",31,12.903225806451612
+replace,BranchCoverage,RandomPrioritization,11,"['v1', 'v3', 'v4', 'v5', 'v8', 'v13', 'v24', 'v26', 'v27', 'v28', 'v30']",31,35.483870967741936
+replace,BranchCoverage,TotalPrioritization,18,"['v1', 'v2', 'v4', 'v5', 'v7', 'v12', 'v13', 'v14', 'v16', 'v17', 'v20', 'v23', 'v24', 'v26', 'v27', 'v28', 'v29', 'v30']",31,58.06451612903226
+replace,BranchCoverage,AdditionalPrioritization,13,"['v1', 'v2', 'v3', 'v4', 'v5', 'v8', 'v13', 'v14', 'v24', 'v27', 'v28', 'v29', 'v30']",31,41.935483870967744

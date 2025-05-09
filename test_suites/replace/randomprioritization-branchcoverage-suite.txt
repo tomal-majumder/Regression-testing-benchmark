@@ -1,0 +1,24 @@
+'?- ?[9-B]-*' 'a&' < temp-test/2318.inp.984.1
+'[^a--b]-[9-B]' 'a&' < temp-test/837.inp.360.2
+'@[[a-c]-*-' '&a@%' < temp-test/2324.inp.986.2
+'-[^a-c' 'b@t' < temp-test/1824.inp.776.1
+'@@*$' '@tW' < input/ruin.1247
+'$?@*' 'NEW' < temp-test/521.inp.226.1
+'%[9-B]c*?@[*-? $' '&' < temp-test/436.inp.191.10
+'[c-a]' '' < input/ruin.529
+'[A-G]' 'OmS[X@@s5c_' < input/ruin.674
+'@n' 'd & '\''Ts/gEB(0=$(}A.AVje3x' < input/ruin.1202
+'[Z-a]^_`a][Z-a]^_`a]@n#' 'R' < input/ruin.417
+'[1-8@t\!()]*' '&plain&textl&' < moni/rr17.t
+'^a-%c]-' '@%@&' < temp-test/24.inp.11.1
+'[0-^9]@nl[^ ]inbeweendoesntmatterwhatjustgettingvariety%$inthestr&& OK here[@@]' < moni/rr2.t
+'NEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEW-[^0-9][0-9]A@@*[^0-9][9-B]@@[^a-c]--[0-9][9-B][^a-]' 'NEW' < temp-test/1584.inp.675.1
+'@IlG' < moni/t6.inp
+'*-?'  < temp-test/208.inp.93.2
+'[^a-' '&' < temp-test/2315.inp.982.1
+'-[a-c]' '@%@&@' < temp-test/359.inp.157.3
+'?[1]**' '&alachamazoo@t@t@&&' < moni/rr4.t
+'?' 'C@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-@*[a--b]^*-[^-' < input/ruin.1343
+'-?-@**[^0-9]-@@*[^9-B]?@n*$' '@%@&' < temp-test/2078.inp.880.6
+'%*' 'G' < input/ruin.1088
+< input/ruin.400

@@ -1,0 +1,4 @@
+7 3 7 < input/inp.12
+2 9 10 < input/ft.9
+1 2 3 < input/inp.hf.12
+< input/bdt.77

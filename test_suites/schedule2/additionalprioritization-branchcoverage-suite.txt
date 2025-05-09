@@ -1,0 +1,5 @@
+0 1 5 < input/inp.hf.14
+2 1 2 < input/et.7
+2  5 < input/ft.20
+1 0 -3 < input/zt.10
+0 0 0 < input/nt.6

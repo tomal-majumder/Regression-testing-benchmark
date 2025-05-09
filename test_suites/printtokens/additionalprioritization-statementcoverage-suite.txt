@@ -1,0 +1,5 @@
+< inputs/uslin.301
+inputs/uslin.846
+one doesntliketwo
+inputs/garbage/nothing
+< inputs/ts540

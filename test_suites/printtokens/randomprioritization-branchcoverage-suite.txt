@@ -1,0 +1,13 @@
+inputs/uslin.84
+inputs/uslin.1592
+< inputs/tst139
+inputs/uslin.1330
+< inputs/ts781
+< inputs/uslin.843
+inputs/uslin.499
+inputs/jk29
+< inputs/uslin.1397
+< inputs/newtst286.tst
+inputs/uslin.726
+inputs/garbage/nothing
+one doesntliketwo
